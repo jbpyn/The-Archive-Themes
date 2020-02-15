@@ -1,0 +1,123 @@
+{
+    "name": "Paper",
+    "style": "Light",
+    "author": [
+        {
+            "name": "Jai Bentley-Payne",
+            "url": "https://appademic.tech",
+        }
+    ],
+    "version": "1.0",
+
+    "editor": {
+        "backgroundColor": "#fafafa",
+        "caretColor": "#0d99fc",
+        "highlight": {
+            "backgroundColor": "#b2d7ff",
+            "unfocusedBackgroundColor": "#d7e7f4"
+        }
+    },
+    
+    "savedSearchesSidebar": {
+        "color": "#222222",
+        "border": true,
+        "backgroundColor": "#ECECEC",   
+        "highlightedBackgroundColor": "#222222",
+        "iconColors": {
+            "default": "#fafafa"
+        }
+    },
+
+    "resultsList": {
+        "color": "#414141",
+        "backgroundColor": "#fafafa",
+        "alternateBackgroundColor": "#ededed",
+        "selection": {
+            "color": "#fafafa",
+            "backgroundColor": "#2b5bee",
+            "unfocusedColor": "#fafafa",
+            "unfocusedBackgroundColor": "#0d66a5"
+        },
+        "border": true
+    },
+
+    "styles": {
+        "base": {
+            "color": "#414141"
+        },
+
+        "h1": {
+            "font": { "style": "bold" },
+            "color": "#600100"
+        },
+        "h2": {
+            "font": {  "style": "bold" },
+            "color": "#600100"
+        },
+        "h3": {
+            "font": {  "style": "bold" },
+            "color": "#600100"
+        },
+        "h4": {
+            "font": {  "style": "bold" },
+            "color": "#600100"
+        },
+        "h5": {
+            "font": {  "style": "bold" },
+            "color": "#600100"
+        },
+        "h6": {
+            "font": {  "style": "bold" },
+            "color": "#600100"
+        },
+        
+        "horizontalRule": {
+            "color": "#737373"
+        },
+
+        "codeBlock": {
+            "font": { "name": "Monaco", "size": 12 },
+            "color": "#54656a",
+            "backgroundColor": "#f5f5f5"
+        },
+        "inlineCode": {
+            "font": { "name": "Monaco", "size": 12 },
+            "color": "#54656a",
+            "backgroundColor": "#f5f5f5"
+        },
+        "blockquote": {
+            "color": "#826a3b",
+            "backgroundColor": "#f5f5f5",
+            "font": { "style": "italic" }
+        },
+        "list": {
+            "syntax": { "color" : "#848484" }
+        },
+
+        "emphasis": {
+            "font": {  "style": "italic" }
+        },
+        "strong": {
+            "font": {  "style": "bold" }
+        },
+
+        "image": {
+            "color": "#737373"
+        },
+        "link": {
+            "color": "#3266ca"
+        },
+        "referenceDefinition": {
+            "color": "#737373"
+        },
+
+        "comment": {
+            "color": "#c3c3c3",
+            "font": {  "style": "regular" }
+        },
+        
+        "footnote": {
+            "color": "#057a7a"
+        }
+    }
+}
